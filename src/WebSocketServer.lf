@@ -63,10 +63,7 @@
  *
  * @author Edward A. Lee
  */
-target C {
-  keepalive: true,
-  cmake-include: ["WebSocketCmake.txt"]
-}
+target C
 
 preamble {=
   #ifndef WEBSOCKET_H
