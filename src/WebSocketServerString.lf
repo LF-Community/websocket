@@ -44,7 +44,7 @@
  *
  * @author Edward A. Lee
  */
-target C
+target Cpp
 
 import WebSocketServer from "WebSocketServer.lf"
 

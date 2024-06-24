@@ -63,7 +63,7 @@
  *
  * @author Edward A. Lee
  */
-target C
+target Cpp
 
 preamble {=
   #ifndef WEBSOCKET_H
